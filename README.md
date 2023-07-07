@@ -5,6 +5,7 @@
 The aim of the assignment was to get familiarize with the backpropagation algorithm which is crucial for neural network learning, and to gain hands-on experience in solving problems with this method by employing multilayer perceptrons (feed-forward networks). Moreover, to get familiarize with the basic operations and functionalities of Pytorch along with its high-level (abstract) features, and to get familiarize with the hyperparameter search (grid-search) to perform model selection.
 
 #-------------------------------------------------------------------
+
 #Assignment 2
 
 The aim of the assignment was:
@@ -15,6 +16,7 @@ The aim of the assignment was:
 • To get familiarize with Hierarchical Agglomerative Clustering and Silhouette method for clustering and evaluating clustering results, respectively.
 
 #-------------------------------------------------------------------
+
 #Assignmnet 3
 
 The aim of the assignment was:
@@ -25,6 +27,7 @@ The aim of the assignment was:
 • To provide insights on how to compare multiple ML models on a dataset with statistically significant (reliable) results.
 
 #-------------------------------------------------------------------
+
 #Assignment 4
 
 The aim of the assignment was:
