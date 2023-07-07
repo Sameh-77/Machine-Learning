@@ -1,5 +1,5 @@
 #---------------------------------------------------------------------------------------#
-# Sameh Algharabli -- 2591386 -- part 3# 
+# Sameh Algharabli -- 2591386 -- part 3#  hyperparameter search for the MLP algorithm/method by utilizing a validation dataset
 #---------------------------------------------------------------------------------------#
 
 
